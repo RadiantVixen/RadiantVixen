@@ -123,13 +123,21 @@ I worked with **K3s, Kubernetes, Docker, networking, namespaces, and deployments
 
 ---
 
-## GitHub Activity
 
+
+## GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantVixen&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=RadiantVixen&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantVixen&layout=compact&theme=transparent&hide_border=true"
+    height="180"
   />
 </p>
 

@@ -3,16 +3,16 @@
 
 I design and build smart systems from the ground up—from training neural networks without pre-built libraries to crafting optimized C++ game engines and containerized infrastructure.
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/RadiantVixen">
-    <img src="https://badge.mediaplus.ma/greenbinary/aatki" alt="aatki's 1337 Badge" height="150px" />
+    <img src="https://badge.mediaplus.ma/greenbinary/aatki" alt="aatki's 1337 Badge" height="240px" />
   </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-I'm a **Transcender (Level 18)** student at **1337** [1]. In this project-based, peer-to-peer engineering environment, I specialize in implementing complex algorithms and systems close to the metal [1]. Rather than relying on frameworks to solve the hard problems, I write the core logic myself to understand how performance, security, and scalability work at a deeper level [1, 2].
+I'm a **Transcender (Level 18)** student at **1337**. In this project-based, peer-to-peer engineering environment, I specialize in implementing complex algorithms and systems close to the metal. Rather than relying on frameworks to solve the hard problems, I write the core logic myself to understand how performance, security, and scalability work at a deeper level.
 
 I am currently focused on **Applied Machine Learning (ML), AI architecture, and DevOps/SRE infrastructure**.
 
@@ -22,7 +22,7 @@ I am currently focused on **Applied Machine Learning (ML), AI architecture, and 
 
 ### ♟️ [Gomoku](https://github.com/RadiantVixen/Gomoku)
 **A high-performance C++ AI engine for the Pente/Gomoku board game.**
-Implements search optimizations including **Minimax with Alpha-Beta Pruning**, **Zobrist Hashing**, **Transposition Tables**, and **Iterative Deepening** [3] to run real-time decision-making algorithms under tight time constraints.
+Implements search optimizations including **Minimax with Alpha-Beta Pruning**, **Zobrist Hashing**, **Transposition Tables**, and **Iterative Deepening** to run real-time decision-making algorithms under tight time constraints.
 `C++` `Game Theory` `AI Algorithms` `Heuristics`
 
 ### 🧠 [Multilayer Perceptron](https://github.com/RadiantVixen/Multilayer-Perceptron)
@@ -30,7 +30,7 @@ Implements search optimizations including **Minimax with Alpha-Beta Pruning**, *
 Implemented mathematical foundations of deep learning (forward propagation, backpropagation, mini-batch gradient descent, and custom weight initializations) to train and optimize a multi-layer perceptron without using standard ML libraries.
 `Python` `Mathematics` `Neural Networks` `Data Science`
 
-### 🐳 [Inception of Things](https://github.com/RadiantVixen/INCEPTION_OF_THINGS)
+### 🐳 [INCEPTION_OF_THINGS](https://github.com/RadiantVixen/INCEPTION_OF_THINGS)
 **A lightweight Kubernetes infrastructure deployment and orchestration project.**
 Automated local multi-node cluster configuration using **K3s (Kubernetes)**, ingress routing, namespace isolation, and secure deployments to mimic professional dev/production pipelines.
 `Docker` `K3s` `Kubernetes` `DevOps` `CI/CD`
@@ -40,9 +40,9 @@ Automated local multi-node cluster configuration using **K3s (Kubernetes)**, ing
 Created a simulated grid environment where an agent utilizes custom neural network heuristics to master optimal navigation and resource gathering through trial-and-error iterations.
 `Python` `Reinforcement Learning` `Neural Networks` `Simulation`
 
-### 🧙‍♂️ [Linear & Logistic Regression](https://github.com/RadiantVixen/Logistic-Regression)
-**Custom data analysis and classification algorithms inspired by Harry Potter.**
-Built supervised machine learning models to analyze multi-dimensional datasets, perform gradient descent optimizations, and classify character data with precision using self-written statistical math models.
+### 🧙‍♂️ [Logistic-Regression](https://github.com/RadiantVixen/Logistic-Regression) & [ft_linear_regression](https://github.com/RadiantVixen/ft_linear_regression)
+**Custom data analysis and classification algorithms built from scratch.**
+Supervised machine learning models designed to analyze multi-dimensional datasets, perform gradient descent optimizations, and classify data using self-written statistical models.
 `Python` `Machine Learning` `Supervised Learning` `Feature Engineering`
 
 ---
@@ -78,4 +78,4 @@ Built supervised machine learning models to analyze multi-dimensional datasets, 
 ---
 
 *Currently open to Machine Learning, Systems Engineering, and DevOps roles.*  
-🌐 [Portfolio Website](https://radiantvixen.github.io/Portfolio/) · 💼 [LinkedIn Profile](https://linkedin.com/in/aicha-atki-17861625b)
+🌐 [Portfolio Website](https://radiantvixen.github.io/Portfolio/) · 💼 [LinkedIn Profile](https://www.linkedin.com/in/aicha-atki/)

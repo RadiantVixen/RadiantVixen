@@ -129,10 +129,6 @@ I worked with **K3s, Kubernetes, Docker, networking, namespaces, and deployments
 
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RadiantVixen&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    height="170"
-  />
 
 <img
  src="https://github-readme-streak-stats.herokuapp.com/?user=RadiantVixen&theme=github-dark-blue&hide_border=true"
@@ -141,12 +137,6 @@ I worked with **K3s, Kubernetes, Docker, networking, namespaces, and deployments
 
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantVixen&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
-</p>
 
 ---
 

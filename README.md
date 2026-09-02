@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://github.com/RadiantVixen">GitHub</a> ·
   <a href="https://www.linkedin.com/in/aicha-atki/">LinkedIn</a> ·
-  <a href="https://radiantvixen.github.io/Portfolio/">Portfolio</a>
+  <a href="https://radiantvixen.github.io/Portfolio/">Portfolio</a> ·
+  <a href="mailto:aichaatki@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -36,11 +37,11 @@ My projects range from implementing **machine learning algorithms and neural net
 <tr>
 <td width="50%" valign="top">
 
-### ♟️ [Gomoku](https://github.com/RadiantVixen/Gomoku)
+### ♟️ <a href="https://github.com/RadiantVixen/Gomoku">Gomoku</a>
 
 A C++ AI engine for the Gomoku/Pente board game.
 
-The project implements algorithms including **Minimax with Alpha-Beta Pruning, Zobrist Hashing, Transposition Tables, and Iterative Deepening** to create an AI capable of making decisions under time constraints.
+The project implements **Minimax with Alpha-Beta Pruning, Zobrist Hashing, Transposition Tables, and Iterative Deepening** to make decisions under time constraints.
 
 `C++` · `Game AI` · `Algorithms`
 
@@ -48,7 +49,7 @@ The project implements algorithms including **Minimax with Alpha-Beta Pruning, Z
 
 <td width="50%" valign="top">
 
-### 🧠 [Multilayer Perceptron](https://github.com/RadiantVixen/Multilayer-Perceptron)
+### 🧠 <a href="https://github.com/RadiantVixen/Multilayer-Perceptron">Multilayer Perceptron</a>
 
 A neural network built from scratch in Python.
 
@@ -62,7 +63,7 @@ I implemented the main learning mechanisms myself, including **forward propagati
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 [Learn2Slither](https://github.com/RadiantVixen/Learn2Slither)
+### 🐍 <a href="https://github.com/RadiantVixen/Learn2Slither">Learn2Slither</a>
 
 A reinforcement learning project based on the classic Snake game.
 
@@ -74,7 +75,7 @@ I created a custom environment where an agent learns through **Q-learning**, usi
 
 <td width="50%" valign="top">
 
-### 🐳 [INCEPTION_OF_THINGS](https://github.com/RadiantVixen/INCEPTION_OF_THINGS)
+### 🐳 <a href="https://github.com/RadiantVixen/INCEPTION_OF_THINGS">INCEPTION_OF_THINGS</a>
 
 A project focused on Kubernetes and container orchestration.
 
@@ -88,8 +89,8 @@ I worked with **K3s, Kubernetes, Docker, networking, namespaces, and deployments
 
 ### Other Projects
 
-* 🧙 [Logistic Regression](https://github.com/RadiantVixen/Logistic-Regression) — Classification algorithms and gradient descent implemented from scratch.
-* 📈 [ft_linear_regression](https://github.com/RadiantVixen/ft_linear_regression) — A linear regression model built to understand the mathematical foundations behind supervised learning.
+* 🧙 <a href="https://github.com/RadiantVixen/Logistic-Regression">Logistic Regression</a> — Classification algorithms and gradient descent implemented from scratch.
+* 📈 <a href="https://github.com/RadiantVixen/ft_linear_regression">ft_linear_regression</a> — A linear regression model built to understand the mathematical foundations behind supervised learning.
 
 ---
 
@@ -103,16 +104,12 @@ I worked with **K3s, Kubernetes, Docker, networking, namespaces, and deployments
 
 ### Machine Learning & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 **NumPy · Pandas · Matplotlib · Machine Learning · Neural Networks · Reinforcement Learning**
 
 ### Infrastructure & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
 </p>
 
 ---
@@ -128,19 +125,46 @@ I worked with **K3s, Kubernetes, Docker, networking, namespaces, and deployments
 
 ## GitHub Activity
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RadiantVixen&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantVixen&layout=compact&theme=transparent&hide_border=true" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RadiantVixen&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    height="170"
+  />
+
+<img
+ src="https://github-readme-streak-stats.herokuapp.com/?user=RadiantVixen&theme=github-dark-blue&hide_border=true"
+ height="170"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantVixen&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+
+📧 <a href="mailto:aichaatki@gmail.com">[aichaatki@gmail.com](mailto:aichaatki@gmail.com)</a>
+
+<br><br>
+
+🌐 <a href="https://radiantvixen.github.io/Portfolio/">Portfolio</a>
+ · 
+💼 <a href="https://www.linkedin.com/in/aicha-atki/">LinkedIn</a>
+ · 
+🐙 <a href="https://github.com/RadiantVixen">GitHub</a>
+
 </p>
 
 ---
 
 <p align="center">
   <i>Always learning, always building.</i>
-</p>
-
-<p align="center">
-  🌐 <a href="https://radiantvixen.github.io/Portfolio/">Portfolio</a>
-  &nbsp;·&nbsp;
-  💼 <a href="https://www.linkedin.com/in/aicha-atki/">LinkedIn</a>
 </p>

@@ -1,5 +1,3 @@
-<!-- ========================= HEADER ========================= -->
-
 <h1 align="center">Hi, I'm Aicha Atki 👋</h1>
 
 <p align="center">
@@ -12,11 +10,9 @@
   <a href="https://radiantvixen.github.io/Portfolio/">Portfolio</a>
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/RadiantVixen">
-    <img src="https://badge.mediaplus.ma/greenbinary/aatki" alt="aatki's 42 Badge" height="200px" />
+    <img src="https://badge.mediaplus.ma/greenbinary/aatki" alt="Aicha's 42 Badge" height="180px" />
   </a>
 </p>
 
@@ -24,93 +20,127 @@
 
 ## About
 
-I'm a student at the **42 Network**, where learning happens mainly through projects and solving problems independently.
+I'm a student at the **42 Network**, learning through project-based and peer-to-peer education.
 
-I'm particularly interested in **Machine Learning, Artificial Intelligence, and Software Engineering**. I enjoy understanding how things work behind the scenes rather than only using high-level tools.
+I'm mainly interested in **Machine Learning, Artificial Intelligence, and Software Engineering**. I enjoy understanding how things work behind the scenes, which is why I often try to build the core logic myself instead of only relying on libraries or frameworks.
 
-A lot of my projects focus on implementing concepts from scratch, whether that's a neural network, machine learning algorithm, game AI, or reinforcement learning environment.
+My projects range from implementing **machine learning algorithms and neural networks from scratch** to building **game AI, reinforcement learning environments, and software infrastructure**.
 
-> I learn best by building things from scratch. Understanding the implementation matters as much as using the tool.
+> **I learn best by building things from scratch. Understanding how something works matters to me as much as being able to use it.**
 
 ---
 
 ## Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/RadiantVixen/Gomoku">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadiantVixen&repo=Gomoku&theme=transparent&hide_border=true" />
-</a>
+### ♟️ [Gomoku](https://github.com/RadiantVixen/Gomoku)
 
-<a href="https://github.com/RadiantVixen/Multilayer-Perceptron">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadiantVixen&repo=Multilayer-Perceptron&theme=transparent&hide_border=true" />
-</a>
+A C++ AI engine for the Gomoku/Pente board game.
 
-<a href="https://github.com/RadiantVixen/Learn2Slither">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadiantVixen&repo=Learn2Slither&theme=transparent&hide_border=true" />
-</a>
+The project implements algorithms including **Minimax with Alpha-Beta Pruning, Zobrist Hashing, Transposition Tables, and Iterative Deepening** to create an AI capable of making decisions under time constraints.
 
-<a href="https://github.com/RadiantVixen/INCEPTION_OF_THINGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadiantVixen&repo=INCEPTION_OF_THINGS&theme=transparent&hide_border=true" />
-</a>
+`C++` · `Game AI` · `Algorithms`
 
-</p>
+</td>
 
-### A few things I've built
+<td width="50%" valign="top">
 
-* **Gomoku** — A C++ game AI using Minimax, Alpha-Beta Pruning, Zobrist Hashing, Transposition Tables, and Iterative Deepening.
-* **Multilayer Perceptron** — A neural network built from scratch with forward propagation, backpropagation, and gradient descent.
-* **Learn2Slither** — A reinforcement learning project where an agent learns to play Snake using Q-learning.
-* **INCEPTION_OF_THINGS** — A Kubernetes and infrastructure project using K3s, Docker, networking, and deployments.
-* **Machine Learning Algorithms** — Logistic regression and linear regression implemented from scratch.
+### 🧠 [Multilayer Perceptron](https://github.com/RadiantVixen/Multilayer-Perceptron)
+
+A neural network built from scratch in Python.
+
+I implemented the main learning mechanisms myself, including **forward propagation, backpropagation, mini-batch gradient descent, activation functions, and weight initialization**.
+
+`Python` · `Machine Learning` · `Neural Networks`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 [Learn2Slither](https://github.com/RadiantVixen/Learn2Slither)
+
+A reinforcement learning project based on the classic Snake game.
+
+I created a custom environment where an agent learns through **Q-learning**, using state representation, rewards, exploration, and trial-and-error.
+
+`Python` · `Reinforcement Learning` · `Q-Learning`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐳 [INCEPTION_OF_THINGS](https://github.com/RadiantVixen/INCEPTION_OF_THINGS)
+
+A project focused on Kubernetes and container orchestration.
+
+I worked with **K3s, Kubernetes, Docker, networking, namespaces, and deployments** to build and manage a small infrastructure environment.
+
+`Docker` · `Kubernetes` · `Linux`
+
+</td>
+</tr>
+</table>
+
+### Other Projects
+
+* 🧙 [Logistic Regression](https://github.com/RadiantVixen/Logistic-Regression) — Classification algorithms and gradient descent implemented from scratch.
+* 📈 [ft_linear_regression](https://github.com/RadiantVixen/ft_linear_regression) — A linear regression model built to understand the mathematical foundations behind supervised learning.
 
 ---
 
 ## Technologies
 
-### Languages & Core Tools
+### Languages & Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux" />
 </p>
 
 ### Machine Learning & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`Pandas` · `Matplotlib` · `Neural Networks` · `Machine Learning` · `Reinforcement Learning`
+**NumPy · Pandas · Matplotlib · Machine Learning · Neural Networks · Reinforcement Learning**
 
-### Infrastructure
+### Infrastructure & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
 </p>
-
-`K3s` · `Docker` · `Kubernetes` · `Linux`
 
 ---
 
 ## Currently Exploring
 
-* Reinforcement Learning and intelligent agents
-* Neural networks and deep learning fundamentals
-* AI systems and machine learning applications
-* EEG and Brain-Computer Interfaces
-* Building and understanding systems from the ground up
+* 🧠 Reinforcement Learning and intelligent agents
+* 🤖 Neural Networks and Deep Learning fundamentals
+* 📊 Applied Machine Learning
+* 🧬 Brain-Computer Interfaces and EEG signal processing
 
 ---
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadiantVixen&show_icons=true&theme=transparent&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantVixen&layout=compact&theme=transparent&hide_border=true" height="170px" />
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RadiantVixen&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantVixen&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
   <i>Always learning, always building.</i>
+</p>
+
+<p align="center">
+  🌐 <a href="https://radiantvixen.github.io/Portfolio/">Portfolio</a>
+  &nbsp;·&nbsp;
+  💼 <a href="https://www.linkedin.com/in/aicha-atki/">LinkedIn</a>
 </p>
